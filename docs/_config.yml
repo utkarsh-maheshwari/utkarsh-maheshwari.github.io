@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Exploratory analysis of time series and regression models
+email: utkarsh.rf99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This blog is dedicated to the developments related to my GSoC project. I will be sharing all the new things that I am going to learn this summer. This will include new plots with examples which I will be adding to the ArviZ.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Utkarsh54160505
+github_username:  utkarsh-maheshwari
 
 # Build settings
 theme: minima
